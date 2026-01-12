@@ -1,0 +1,29 @@
+{
+    "9587462318": {
+        "title": "python",
+        "author": "gudio van",
+        "isbn": "9587462318",
+        "year": "2001",
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null
+    },
+    "85647123658": {
+        "title": "Hope",
+        "author": "John",
+        "isbn": "85647123658",
+        "year": "2020",
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null
+    },
+    "745896145": {
+        "title": "development",
+        "author": "james",
+        "isbn": "745896145",
+        "year": "2015",
+        "available": false,
+        "borrowed_by": "56",
+        "due_date": "2026-01-26"
+    }
+}
